@@ -1,7 +1,6 @@
 <!-- Banner with typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohamed+Arif+Amjedumar+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+%26+Computer+Vision+Enthusiast;Passionate+Tech+Explorer+%7C+B.Tech+IT+Student;Let's+Build+The+Future+Together+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hey%2C+I'm+Mohamed+Arif+Amjedumar!;%F0%9F%92%BB+Full-Stack+Web+Developer+%7C+Visionary+Thinker;🧠+Exploring+AI%2C+Computer+Vision+%26+OpenCV;%F0%9F%92%A1+Innovating+with+Code%2C+Design%2C+and+Purpose;%F0%9F%8C%8D+Let%27s+Build+the+Future+Together!" alt="Typing SVG Banner" />
 
 ---
 
