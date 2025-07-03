@@ -1,6 +1,8 @@
 <!-- Banner with typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hey%2C+I'm+Mohamed+Arif+Amjedumar!;%F0%9F%92%BB+Full-Stack+Web+Developer+%7C+Visionary+Thinker;🧠+Exploring+AI%2C+Computer+Vision+%26+OpenCV;%F0%9F%92%A1+Innovating+with+Code%2C+Design%2C+and+Purpose;%F0%9F%8C%8D+Let%27s+Build+the+Future+Together!" alt="Typing SVG Banner" />
+  <a href="https://github.com/Mohamed-Arif-A">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Mohamed+Arif+Amjedumar!+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB+%7C+AI+Explorer+%F0%9F%A7%A0;Passionate+about+OpenCV+%2B+Computer+Vision+%F0%9F%96%A5%EF%B8%8F;Creating+Smart+Solutions+with+Design+%26+Code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Let's+Build+Something+Great+Together+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 
 ---
 
