@@ -40,7 +40,7 @@
 ---
 
 ## 📂 Notable Projects:
-🔹 **[Foocuz.in 🍔](https://foocuz.in)**  
+🔹 **[Foocuz.in 🍔](file:///C:/Users/ASUS/OneDrive/Desktop/Food%20Project/FOOCUZ/Home.html)**  
 A food customization platform where users tailor dishes to their taste. Built using HTML, CSS, JavaScript with scalable logic for future international cuisine expansion.
 
 🔹 **GDSC’23 – Anti-Poverty Web App**  
